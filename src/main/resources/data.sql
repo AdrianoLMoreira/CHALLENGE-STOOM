@@ -1,0 +1,1 @@
+INSERT INTO address (STREET_NAME, number, complement, neighbourhood, zipcode, latitude, longitude, city, state, country) VALUES ('Av Thirso Micali', 151, '', 'Jd. Taquarão', '15902-120', '', '', 'Taquaritinga', 'São Paulo', 'Brasil');
